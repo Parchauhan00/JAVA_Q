@@ -1,7 +1,7 @@
 
 // Find largest Sub array of size k
 
-public class LargestSubArrofSizeK {
+public class LargestSubArrayfSizeK {
    
     public static int longestSub(int arr[], int k) {
         int i = 0;
